@@ -1,1 +1,4 @@
-# chatapp
+CHAT_APP
+
+My chat app allows you to connect with family, friends or even your colleagues in an effiecient way. The app has several features, once you sign in. The first feature is on the left hand side. There you will see the name of the chat room you are currently in. In this section you can also create a new chat room. Secondly you will see in the middle section is the are where you will send your message and see the incoming messages that were sent to you. At the bottom section is the a picture icon, in this section you can send an image to the people in the chat. Lastly you will see on the right hand side all the people in the chat room. Here the admin of the chat room is allowed to add people to the chat. If you no longer want to be apart of the chat room you can delete it. That is all the features on the chatapp, easy for anyone to use.
+
